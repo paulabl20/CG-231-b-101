@@ -1,0 +1,12 @@
+EJERCICIO 3.1
+¿Que ocurre si los factores de escala son diferentes entre sı?
+RTA: por que esta diferencias de escalas pueden afectar las coordenadas decimales afectando la derivacion de los valores que no sean pertenecientes a las coordenadas originales.
+
+¿Y si algun factor de escala es cero? 
+RTA:demostraria que la escala no tiene un valor nulo
+
+¿Que ocurre si uno o varios factores de escala son negativos? 
+RTA:demuestra como error en las coordenadas ya que los factores de escala se calculan apartir de archivos vinculados que no permite generar negativos
+
+¿Y si el factor de escala esta entre cero y uno?
+RTA: no serian validas para las coordenadas decimales por que para esos clases de coordenadas es necesarios digitas mas grandes para no afectar la escala 
